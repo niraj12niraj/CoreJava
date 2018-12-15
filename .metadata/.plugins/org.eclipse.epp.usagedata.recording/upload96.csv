@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716076955
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716079054
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716079371
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716083143
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716083157
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716083701
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716083771
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716087840
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716089243
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716094819
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716094820
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716096006
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716102666
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716117116
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716122090
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1432716130623
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716132816
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716138574
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716146457
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716151125
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1432716164467
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716167642
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716172534
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716174882
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716174924
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716176147
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716176156
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716179736
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716179831
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716184692
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716186667
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716188221
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716251275
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716254374
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716255926
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716256164
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716258704
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716258720
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716259143
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716259190
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716284110
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716284110
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716290209
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716292877
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716292894
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716293033
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716293103
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716297229
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716297229
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716302012
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716306112
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716308042
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716315044
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716369829
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716370879
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716371160
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716373528
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716373544
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716373696
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716373745
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716376454
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716376454
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716391367
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716428646
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716458508
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716478341
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716485934
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716490096
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716491646
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716491778
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716508614
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716508639
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716513848
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716590512
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716590622
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1432716606470
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716607588
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716614519
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716615042
+error,log,,,"Exception occurred in listener of Java element change notification",1432716615044
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716615929
+error,log,,,"Exception occurred in listener of Java element change notification",1432716615930
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716616851
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716621479
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716621973
+error,log,,,"Exception occurred in listener of Java element change notification",1432716621974
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716622930
+error,log,,,"Exception occurred in listener of Java element change notification",1432716622931
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716623339
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716628575
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716629082
+error,log,,,"Exception occurred in listener of Java element change notification",1432716629083
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716629749
+error,log,,,"Exception occurred in listener of Java element change notification",1432716629750
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716631014
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716634420
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716639996
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716640491
+error,log,,,"Exception occurred in listener of Java element change notification",1432716640493
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716641440
+error,log,,,"Exception occurred in listener of Java element change notification",1432716641441
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716641882
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716642453
+error,log,,,"Exception occurred in listener of Java element change notification",1432716642454
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716644258
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716644779
+error,log,,,"Exception occurred in listener of Java element change notification",1432716644780
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716647209
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716657971
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716663581
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716665599
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716665787
+error,log,,,"Exception occurred in listener of Java element change notification",1432716665788
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716665805
+error,log,,,"Exception occurred in listener of Java element change notification",1432716665805
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716665818
+error,log,,,"Exception occurred in listener of Java element change notification",1432716665819
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1432716665869
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Lab19",1432716665870
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1432716665874
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Lab19",1432716665874
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716665894
+error,log,,,"Exception occurred in listener of Java element change notification",1432716665894
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716666020
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716666806
+error,log,,,"Exception occurred in listener of Java element change notification",1432716666807
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716668683
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716668705
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716670081
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716670089
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716673736
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716673834
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716678534
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716680089
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716691566
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716696147
+error,log,,,"Exception occurred in listener of Java element change notification",1432716696148
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716697004
+error,log,,,"Exception occurred in listener of Java element change notification",1432716697004
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716707968
+error,log,,,"Exception occurred in listener of Java element change notification",1432716707969
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716708526
+error,log,,,"Exception occurred in listener of Java element change notification",1432716708527
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716710300
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716711002
+error,log,,,"Exception occurred in listener of Java element change notification",1432716711003
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716728027
+error,log,,,"Exception occurred in listener of Java element change notification",1432716728028
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716731782
+error,log,,,"Exception occurred in listener of Java element change notification",1432716731783
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716732547
+error,log,,,"Exception occurred in listener of Java element change notification",1432716732548
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716732930
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716733528
+error,log,,,"Exception occurred in listener of Java element change notification",1432716733528
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716737165
+error,log,,,"Exception occurred in listener of Java element change notification",1432716737166
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716738044
+error,log,,,"Exception occurred in listener of Java element change notification",1432716738045
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716740699
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716741360
+error,log,,,"Exception occurred in listener of Java element change notification",1432716741361
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716746230
+error,log,,,"Exception occurred in listener of Java element change notification",1432716746231
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716746874
+error,log,,,"Exception occurred in listener of Java element change notification",1432716746875
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716749722
+error,log,,,"Exception occurred in listener of Java element change notification",1432716749723
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716750391
+error,log,,,"Exception occurred in listener of Java element change notification",1432716750392
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716768958
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716769574
+error,log,,,"Exception occurred in listener of Java element change notification",1432716769575
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716778125
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716779089
+error,log,,,"Exception occurred in listener of Java element change notification",1432716779090
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716780852
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716781581
+error,log,,,"Exception occurred in listener of Java element change notification",1432716781582
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432716783302
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716790273
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716793430
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716795054
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716795083
+error,log,,,"Exception occurred in listener of Java element change notification",1432716795083
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716795099
+error,log,,,"Exception occurred in listener of Java element change notification",1432716795099
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716795113
+error,log,,,"Exception occurred in listener of Java element change notification",1432716795113
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1432716795129
+error,log,,,"Exception occurred in listener of Java element change notification",1432716795129
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716795232
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716797902
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716797925
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716799413
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716799420
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716802053
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716802970
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716803053
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716820469
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716820469
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1432716841337
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1432716846978
+error,log,,,"Error calling delegate ModuleArtifactAdapter[org.eclipse.jst.jee.web.server.webresource4]",1432716866165
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716867332
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716868401
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716868559
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1432716868638
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Lab19",1432716868638
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716870937
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716870961
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716872466
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716872476
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716875806
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716875921
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432716880621
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716882568
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432716885483
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716889551
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716890056
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716890078
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716890471
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716893958
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716899024
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716901500
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716901526
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432716902647
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1432716902655
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716905983
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716906047
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432716909211
+closed,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1432716909212
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432717001126
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717002924
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717002953
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717002966
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717003249
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432717021727
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432717037924
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432717056461
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432717071208
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432717076160
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432717088115
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432717113630
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1432717161109
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1432717184476
+activated,editor,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.core.htmlsource.source",1432717187971
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1432717190366
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717194078
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1432717195492
